@@ -9,4 +9,4 @@ const IconColor = Color(0xFFFF6766);
 const splineColor = Color.fromARGB(255, 210, 163, 96);
 const secondarybgColor = Color.fromARGB(255, 238, 240, 242);
 
-const defaultPadding = 16.0;
+const defaultPadding = 15.0;
